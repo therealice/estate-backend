@@ -1,0 +1,5 @@
+elasticsearch.yml
+kibana.yml
+elastic-certificates.p12
+elastic-stack-ca.p12
+docker-data-volumes/elasticsearch/*
